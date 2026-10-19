@@ -1,0 +1,5 @@
+# Recipe Specification Language (RSL) Analyzer
+# ---------------------------------------------
+# This project uses the Python Standard Library exclusively.
+# Compatible with Python 3.8 and above.
+# No external third-party dependencies are required.
