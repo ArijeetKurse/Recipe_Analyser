@@ -1,0 +1,16 @@
+# =========================================================
+# Sample Invalid Recipe: Broken Chocolate Cake
+# Demonstrates syntax error: missing semicolon on cocoa line
+# =========================================================
+
+RECIPE ChocolateCake {
+    # Notice: missing semicolon ';' at the end of the cocoa ingredient
+    INGREDIENT cocoa = 100 grams
+    INGREDIENT sugar = 200 grams;
+    INGREDIENT flour = 150 grams;
+
+    STEP Mix cocoa, sugar, and flour in a bowl;
+    STEP Bake for 25 minutes;
+
+    SERVE ChocolateCake;
+}

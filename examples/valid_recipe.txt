@@ -1,0 +1,18 @@
+# =========================================================
+# Sample Valid Recipe: Fluffy Golden Pancakes
+# Language: Recipe Specification Language (RSL)
+# =========================================================
+
+RECIPE Pancakes {
+    INGREDIENT flour = 2 cups;
+    INGREDIENT milk = 1 cup;
+    INGREDIENT eggs = 2;
+    INGREDIENT sugar = 2 tablespoons;
+    INGREDIENT butter = 50 grams;
+
+    STEP Mix flour, milk, eggs, and sugar in a large bowl;
+    STEP Melt butter in a skillet over medium heat;
+    STEP Pour batter and cook for 3 minutes per side;
+
+    SERVE Pancakes;
+}
